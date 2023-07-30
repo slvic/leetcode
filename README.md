@@ -1,3 +1,4 @@
+folder submissions/hard does not exists
 # This repo contains my leetcode problem solving tasks
 
 ## All 📈: 11
